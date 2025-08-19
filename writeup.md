@@ -10,11 +10,11 @@ All answers can be found in the README.md file
 
 **1. What is the difference between Git and GitHub?**
 
-[Your answer here]
+Git is the Version Control System which helps adjust anything you do to your code. When Github is the way to actually use Git.
 
 **2. Explain what "committing and pushing" means in your own words. Why are these steps important?**
 
-[Your answer here]
+Commiting is like editing or doing the assignment when pushing is basically the turn in button but instead of turning it into a classroom, it's turned in a remote respository or project file.
 
 **3. What is a repository and what does it contain?**
 
