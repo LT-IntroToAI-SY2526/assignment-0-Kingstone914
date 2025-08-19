@@ -18,7 +18,7 @@ Commiting is like editing or doing the assignment when pushing is basically the 
 
 **3. What is a repository and what does it contain?**
 
-[Your answer here]
+A repository is basically what keeps all your work like a project folder.
 
 ---
 
