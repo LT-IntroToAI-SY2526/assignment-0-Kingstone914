@@ -26,7 +26,7 @@ A repository is basically what keeps all your work like a project folder.
 
 **Link to your GitHub profile repository:** 
 
-[Paste your profile repository link here - it should look something like: https://github.com/yourusername/yourusername]
+https://github.com/Kingstone914/Kingstone914
 
 ---
 
@@ -34,7 +34,7 @@ A repository is basically what keeps all your work like a project folder.
 
 **What aspect of AI are you most excited to learn about this year? Explain why.**
 
-[Your answer here - feel free to write a paragraph or more!]
+I'm most excited to learn about how AI comes up with it's answer and how it searches databses to give you an answer because I wonder what AI requires to give you an answer to your question.
 
 ---
 
